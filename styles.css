@@ -1,0 +1,203 @@
+/*First Section*/
+
+#title{
+   
+    background-color: #ff4c68;
+}
+body {
+    font-family: "Montserrat";
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.7rem;
+    line-height: 1.5;
+    color: white;
+
+}
+.navbar-brand{
+    font-size: 2.1rem;
+}
+
+.nav-item{
+    font-size: 1rem;
+    padding: 1.5rem;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.tin{
+    width: 75%;
+    height: 17rem;
+    
+}
+.navbar{
+    padding-bottom: 4.5rem;
+    
+}
+
+.row{
+    margin-top: 0.7rem;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.meet{
+    font-size: 2.9rem;
+    font-weight: bold;
+}
+
+/*Second Section*/
+
+#features{
+    padding: 5.5% 16%;
+}
+
+.feature-box1{
+    text-align: center;
+    padding: 4.3%;
+}
+
+.feature-box2{
+    text-align: center;
+    padding: 4.3%;
+}
+
+.feature-box3{
+    text-align: center;
+    padding: 4.3%;
+}
+
+h3 {
+    font-weight: bold;
+    padding-top: 1rem;
+
+}
+.p{
+    color: #9d8d8d;
+
+}
+.check{
+    height: 3rem;
+    width: 20%;
+    
+}
+
+.bull{
+    height: 3rem;
+    width: 20%;
+}
+.heart{
+    height: 3rem;
+    width: 20%;
+}
+
+/* Third Section*/
+
+#testimonials{
+    padding: 4% 15%;
+    text-align: center;
+    background-color: #f46f83;
+    margin-bottom: 1%;
+    color: white;
+}
+
+.test{
+    font-family: "Montserrat";
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+.testi{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+
+}
+
+#press{
+    background-color: #f46f83;
+    text-align: center;
+    line-height: 2;
+}
+
+.press-logo{
+    width: 20%;
+    margin-bottom: 1px;
+    
+}
+
+.pricing-col{
+    padding: 3% 2%;
+}
+#pricing{
+    text-align: center;
+    font-weight: bold;
+    font-family: "montserrat";
+}
+.btn{
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5); 
+}
+.pri{
+    padding-top: 2.5rem;
+    font-size: 2.1rem;
+    font-family: "montserrat";
+}
+
+
+/*Call to Action*/
+
+#cta{
+    
+    padding: 80px 20px 80px 20px;
+    text-align: center;
+    background-color: #e89fab;
+  
+}
+
+
+.btn13{
+    position: relative;
+    top: 20px;  
+}
+
+#footer{
+    padding: 40px 20px 40px 20px;
+    text-align: center;
+}
+.twitter{
+    width: 25px;
+    margin-right: 12px;
+    cursor: pointer;
+
+}
+.facebook{
+    width: 25px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.whatsapp{
+    width: 25px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.insta{
+    width: 25px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.copy{
+    position: relative;
+    top: 20px;
+    left: 1px;
+}
+.tp{
+    position: relative;
+    left: 8px;
+}
+
+.love{
+    font-family: "montserrat";
+    font-weight: bold;
+}
